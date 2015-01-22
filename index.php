@@ -35,5 +35,5 @@
     </tr>
 </table>
 
-    <img src="daftpunktocat-guy.png">
+    <img src="daftpunktocat-guy.gif" alt="Punk cat!">
         
