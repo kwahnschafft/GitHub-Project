@@ -12,7 +12,7 @@
 <input type="radio" name="yorn" value="yes2">Yes
 </form>
 
-<p>On a scale of 1 to 1o, how cool?</p>
+<p>On a scale of 1 to 10, how cool?</p>
 
 <table>
     <tr>
