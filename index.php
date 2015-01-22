@@ -12,26 +12,20 @@
 <input type="radio" name="yorn" value="yes2">Yes
 </form>
 
+<p>On a scale of 1 to 1o, how cool?</p>
+
 <table>
     <tr>
-        <td>1</div></td>
-        <td>2</td>
-        <td>3</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>5</td>
-        <td>6</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>8</td>
-        <td>9</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>0</td>
-        <td></td>
+        <td><button>1</button></td>
+        <td><button>2</button></td>
+        <td><button>3</button></td>
+        <td><button>4</button></td>
+        <td><button>5</button></td>
+        <td><button>6</button></td>
+        <td><button>7</button></td>
+        <td><button>8</button></td>
+        <td><button>9</button></td>
+        <td><button>10</button></td>
     </tr>
 </table>
 
