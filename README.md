@@ -1,3 +1,5 @@
+# GitHub and Pagoda Box Project
+
 Author: _Kiara Wahnschafft, Torres & Co._
 
 URL: http://kwahnschafft-p4.gopagoda.io
@@ -12,7 +14,7 @@ Even specialer thanks to **Sananda Chintamani** for her inspirational frogs.
 
 ___
 
-# Change Log
+### Change Log
 
 + 1/18/15 - Created Repository
 + 1/19/15 - Added index.php with buttons
