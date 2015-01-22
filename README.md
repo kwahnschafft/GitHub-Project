@@ -14,8 +14,8 @@ ___
 
 # Change Log
 
-+1/18/15 - Created Repository
-+1/19/15 - Added index.php with buttons
-+1/20/15 - Edited index.php to add radio buttons, buttons, and image
-+1/21/15 - Added README file
-+1/22/15 - Changed image soure in index.php
++ 1/18/15 - Created Repository
++ 1/19/15 - Added index.php with buttons
++ 1/20/15 - Edited index.php to add radio buttons, buttons, and image
++ 1/21/15 - Added README file
++ 1/22/15 - Changed image soure in index.php
