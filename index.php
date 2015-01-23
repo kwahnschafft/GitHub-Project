@@ -29,5 +29,8 @@
     </tr>
 </table>
 
+<p>Here is a picture of a cat.</p>
     <img src="daftpunktocat-guy.gif" alt="Punk cat!">
         
+<p>Here is a video of Lukas.</p>
+    <video src="Lukas.mov" alt="Lukas!"></video>
