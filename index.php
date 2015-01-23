@@ -33,6 +33,6 @@
     <img src="daftpunktocat-guy.gif" height="150px" width="150px" alt="Punk cat!">
         
 <p>Here is a video of Lukas.</p>
-    <video width="320" height="240" autoplay>
+    <video width="320" height="240" autoplay loop>
         <source src="Lukas.mp4" type="video/mp4">
     </video>
