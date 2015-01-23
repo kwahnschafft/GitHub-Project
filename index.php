@@ -30,7 +30,9 @@
 </table>
 
 <p>Here is a picture of a cat.</p>
-    <img src="daftpunktocat-guy.gif" alt="Punk cat!">
+    <img src="daftpunktocat-guy.gif" height="40px" width="40px" alt="Punk cat!">
         
 <p>Here is a video of Lukas.</p>
-    <video src="Lukas.mov" alt="Lukas!"></video>
+    <video>
+        <source src="Lukas.mp4" type="video/mp4">
+    </video>

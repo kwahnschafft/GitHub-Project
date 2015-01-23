@@ -21,3 +21,4 @@ ___
 + 1/20/15 - Edited index.php to add radio buttons, buttons, and image
 + 1/21/15 - Added README file
 + 1/22/15 - Changed image soure in index.php
++ 1/23/15 - Added Video to index.php
